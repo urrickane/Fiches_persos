@@ -3,4 +3,4 @@ Projet personnel en C#. Assistant de création et de maintenance de fiche de per
 
 ## Exécution
 - Récupérez le projet localement;
-- Lancez Assistant JDR.lnk
+- Lancez Assistant JDR.lnk.
