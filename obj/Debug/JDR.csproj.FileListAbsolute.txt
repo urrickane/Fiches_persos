@@ -1,0 +1,11 @@
+D:\Boulot\Visual\JDR\bin\Debug\JDR.exe.config
+D:\Boulot\Visual\JDR\bin\Debug\JDR.exe
+D:\Boulot\Visual\JDR\bin\Debug\JDR.pdb
+D:\Boulot\Visual\JDR\obj\Debug\JDR.csproj.AssemblyReference.cache
+D:\Boulot\Visual\JDR\obj\Debug\JDR.csproj.SuggestedBindingRedirects.cache
+D:\Boulot\Visual\JDR\obj\Debug\JDR.Properties.Resources.resources
+D:\Boulot\Visual\JDR\obj\Debug\JDR.csproj.GenerateResource.cache
+D:\Boulot\Visual\JDR\obj\Debug\JDR.csproj.CoreCompileInputs.cache
+D:\Boulot\Visual\JDR\obj\Debug\JDR.exe
+D:\Boulot\Visual\JDR\obj\Debug\JDR.pdb
+D:\Boulot\Visual\JDR\obj\Debug\JDR.Assisstant_JDR.resources
